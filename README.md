@@ -1,3 +1,3 @@
 # Spotify Clone
 
-[click here] -  (file:///C:/Users/kg834/Desktop/web/Spotify_Clone/index.html)
+[click here] -  (http://127.0.0.1:5500/index.html)
